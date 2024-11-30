@@ -1,0 +1,17 @@
+{
+    "name": "lethargiccoder/bits",
+    "description": "test library",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Lethargiccoder\\Bits\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Eric Cestnick",
+            "email": "eric.cestnick@gmail.com"
+        }
+    ],
+    "require": {}
+}
